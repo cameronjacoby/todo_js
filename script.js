@@ -53,14 +53,6 @@ var addButton = document.getElementById('add_button');
 var taskField = document.getElementById('task_field');
 var taskList = document.getElementById('task_list');
 
-if (taskField.value === '') {
-  addButton.style.display = 'none';
-}
-
-taskField.onclick = function(event) {
-  addButton.style.display = 'inline-block';
-}
-
 addButton.onclick = function(event) {
   event.preventDefault();
   

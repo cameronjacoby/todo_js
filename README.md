@@ -21,3 +21,9 @@ In this lab, you're going put together all you've learned about listening to DOM
 Using the built in HTML5 feature of local storage. Store your todo item into local storage. When your page is refreshed it will load the old todo items from localstorage.
 
 * [Local Storage And How To Use It On Websites](http://www.smashingmagazine.com/2010/10/11/local-storage-and-how-to-use-it/)
+
+--------------------
+
+### Completed project:
+
+![ScreenShot](screenshot.png)

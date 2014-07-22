@@ -37,11 +37,12 @@ h1 {
 
 #add_button {
   font-family: 'Oswald', sans-serif;
-  font-size: 48px;
+  font-size: 40px;
   border: none;
   color: #ED4228;
   background: #FFFFFF;
   outline: none;
+  padding-bottom: 4px;
 }
 
 .tasks {
